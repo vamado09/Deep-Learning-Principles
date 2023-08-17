@@ -1,6 +1,2 @@
 # Deep-Learning-Principles
-Projects and problems related to Deep Learning
-
-This repository contains 5 Deep Learning tasks and 1 mini project. For the mini project, I had the idea to create and combine one Unsupervised Model (pre-trained step) and 1 Supervised Model to correctly classify the animal class (class: 1 to 7). It is important to state that the data came from UCI Irvine while the created models were AutoEncoder and Artificial Neural Network (ANN). Every detail and explanation are within the mini project notebook, pdf, and html including data information and implementation.
-
-Google Colab was used for all assignments.
+The main purpose of this repository is to show a Zoo data classification task based on animal class. The conceptualization underlying the mini project involved the fusion of an Unsupervised Model, specifically in its pre-trained phase, and a Supervised Model. The primary objective of this amalgamation was to impeccably categorize distinct animal classes, each denoted by a numerical value ranging from 1 to 7. It is important to state that the data used in this project originates from UCI Irvine Machine Learning Repository. Models created were AutoEncoder and a Artificial Nerual Network (ANN). The mini project notebook contains detailed explanations and clear information. You can find this documentation in various formats, like Colab, PDF and HTML files. The repository also ecompasses a compilation of five different Deep Learning tasks which inlcude frameworks like Scikit-Learn, PyTorch, and TensorFlow using Keras API.
